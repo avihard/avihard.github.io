@@ -1238,6 +1238,10 @@
 .fa-android:before {
   content: "\f17b";
 }
+.fa-flutter:before {
+  content: "\f17b";
+}
+
 .fa-linux:before {
   content: "\f17c";
 }
